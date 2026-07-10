@@ -1,6 +1,0 @@
-1. Reklamacja z ograniczeniami
-Napisz prompt, który wygeneruje odpowiedź na reklamację niezadowolonego klienta. Warunek: model ma zachować konkretny ton (uprzejmy, ale bez przepraszania nadmiernego), zmieścić się w 4 zdaniach i zaproponować jedno rozwiązanie. Kursant musi tak sformułować instrukcję, by model nie „rozlał się" w ogólniki.
-2. Ekstrakcja strukturalna
-Masz akapit nieuporządkowanego tekstu (np. notatka ze spotkania). Napisz prompt, który wyciągnie z niego: decyzje, osoby odpowiedzialne i terminy — i zwróci to wyłącznie jako czysty JSON, bez komentarza i bez znaczników markdown. Test: czy output da się od razu sparsować.
-3. Przełożenie rejestru
-Weź ten sam komunikat merytoryczny i napisz jeden prompt, który wygeneruje trzy jego warianty dla trzech odbiorców: zarząd (zwięźle, strategicznie), zespół techniczny (konkretnie), klient (bez żargonu). Wyzwanie: jak w jednym promcie wymusić rozdział trzech rejestrów bez ich zlania.
